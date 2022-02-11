@@ -1,0 +1,7 @@
+
+      N E X T F L O W
+      version 21.10.6 build 5660
+      created 21-12-2021 16:55 UTC (11:55 EDT)
+      cite doi:10.1038/nbt.3820
+      http://nextflow.io
+
